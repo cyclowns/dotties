@@ -8,5 +8,6 @@
 #    Spacemacs
 #    Some bar? i3-bar or lemonbar maybe
 #    Conky?
-#    Nitrogen
+#    Nitrogen 
+#    Some password lock
 
