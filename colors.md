@@ -23,33 +23,33 @@ Black:      #1c1c1c
 
 ```
 Dark red:  #ff6584
-Light red: #ff9dd0
+Light red: #ff8dab
 ```
-![darkred](https://dummyimage.com/128x128/ff6584/1c1c1c) ![lightred](https://dummyimage.com/128x128/ff9dd0/1c1c1c)
+![darkred](https://dummyimage.com/128x128/ff6584/1c1c1c) ![lightred](https://dummyimage.com/128x128/ff8dab/1c1c1c)
 
 ## Oranges
 
 ```
 Dark orange:  #ffa365
-Light orange: #ffb999
+Light orange: #ffb78d
 ```
-![darkorange](https://dummyimage.com/128x128/ffa365/1c1c1c) ![lightorange](https://dummyimage.com/128x128/ffb999/1c1c1c)
+![darkorange](https://dummyimage.com/128x128/ffa365/1c1c1c) ![lightorange](https://dummyimage.com/128x128/ffb78d/1c1c1c)
 
 ## Yellows
 
 ```
 Dark yellow:  #fff563
-Light yellow: #fffbac
+Light yellow: #fff08d
 ```
-![darkyellow](https://dummyimage.com/128x128/fff563/1c1c1c) ![lightyellow](https://dummyimage.com/128x128/fffbac/1c1c1c)
+![darkyellow](https://dummyimage.com/128x128/fff563/1c1c1c) ![lightyellow](https://dummyimage.com/128x128/fff08d/1c1c1c)
 
 ## Greens
 
 ```
 Dark green:  #84ff65
-Light green: #adff8c
+Light green: #abff8d
 ```
-![darkgreen](https://dummyimage.com/128x128/84ff65/1c1c1c) ![lightgreen](https://dummyimage.com/128x128/adff8c/1c1c1c)
+![darkgreen](https://dummyimage.com/128x128/84ff65/1c1c1c) ![lightgreen](https://dummyimage.com/128x128/abff8d/1c1c1c)
 
 ## Blues
 
@@ -63,7 +63,7 @@ Light blue: #8dcaff
 
 ```
 Dark purple:  #cd66f2
-Light purple: #e19fff
+Light purple: #e18dff
 ```
-![darkpurple](https://dummyimage.com/128x128/cd66f2/1c1c1c) ![lightpurple](https://dummyimage.com/128x128/e19fff/1c1c1c)
+![darkpurple](https://dummyimage.com/128x128/cd66f2/1c1c1c) ![lightpurple](https://dummyimage.com/128x128/e18dff/1c1c1c)
 
