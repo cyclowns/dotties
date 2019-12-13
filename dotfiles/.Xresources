@@ -25,8 +25,8 @@ URxvt*saveLines:                  5000
 ! hyatheme
 
 URxvt*termName: rxvt
-URxvt*font:     xft:Source Code Pro for Powerline
-URxvt*boldFont: xft:Source Code Pro for Powerline:style=bold
+URxvt*font:     xft:Source Code Pro for Powerline:size=10
+URxvt*boldFont: xft:Source Code Pro for Powerline:style=bold:size=10
 
 ! special
 URxvt*foreground:           #dadada
