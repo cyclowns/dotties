@@ -10,12 +10,12 @@ The six accent colors are red, purple, green, blue, yellow, and orange.
 
 ```
 Dark grey:  #2c2f33
-Light grey: #5e636b
+Light grey: #383b40
 White:      #dadada
 Black:      #1c1c1c
 ```
 
-![darkgrey](https://dummyimage.com/128x128/2c2f33/1c1c1c) ![lightgrey](https://dummyimage.com/128x128/5e636b/1c1c1c)
+![darkgrey](https://dummyimage.com/128x128/2c2f33/1c1c1c) ![lightgrey](https://dummyimage.com/128x128/383b40/1c1c1c)
 
 ![white](https://dummyimage.com/128x128/dadada/1c1c1c) ![black](https://dummyimage.com/128x128/1c1c1c/dadada)
 
