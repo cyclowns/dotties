@@ -6,8 +6,8 @@
 # 1. DM (probably lightdm) and X
 # 2. WM (i3-gaps)
 # 3. Terminal
-#    SourceCode Pro
-#    Theme? Ayu?
+#    Iosevka
+#    hytheme
 #    urxvt? Alacritty?
 #    Powerline
 # 4. Various utilities needing config
@@ -16,4 +16,6 @@
 #    Conky?
 #    Nitrogen
 #    Some password lock
-
+# 5. DL at some point:
+#    Nerd Fonts Complete (iosevka)
+#

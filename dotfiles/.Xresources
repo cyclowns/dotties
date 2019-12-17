@@ -8,11 +8,6 @@ Xft.lcdfilter: lcddefault
 Xcursor.theme: xcursor-breeze
 XcursorSize:                     0
 
-! alternative font settings with 'terminus':
-! URxvt.font:      -xos4-terminus-medium-r-normal--16-160-72-72-c-80-iso10646-1
-! URxvt.bold.font: -xos4-terminus-bold-r-normal--16-160-72-72-c-80-iso10646-1
-!! terminus names see end of file!
-
 URxvt*depth:                      32
 URxvt*scrollBar:                  false
 URxvt*mouseWheelScrollPage:       false
@@ -25,13 +20,14 @@ URxvt*saveLines:                  5000
 ! hyatheme
 
 URxvt*termName: rxvt
-URxvt*font:     xft:Source Code Pro for Powerline:size=10
-URxvt*boldFont: xft:Source Code Pro for Powerline:style=bold:size=10
+URxvt*font:     xft:Iosevka Nerd Font:pixelsize=17
+URxvt*boldFont: xft:Iosevka Nerd Font:style=bold:pixelsize=17
+URxvt.letterSpace: 0
 
 ! special
 URxvt*foreground:           #dadada
 URxvt*background:           #2c2f33
-URxvt*cursorColor:          #e18dff
+URxvt*cursorColor:          #dadada
 
 ! black
 URxvt*color0:               #1c1c1c
