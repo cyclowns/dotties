@@ -19,48 +19,48 @@ URxvt*saveLines:                  5000
 
 
 ! hyatheme
-
+ 
 URxvt*termName: rxvt-unicode-256color
-URxvt*font:     xft:Iosevka Nerd Font Mono:pixelsize=17
-URxvt*boldFont: xft:Iosevka Nerd Font Mono:style=bold:pixelsize=17
+URxvt*font:     xft:Iosevka:pixelsize=17
+URxvt*boldFont: xft:Iosevka:style=bold:pixelsize=17
 URxvt.letterSpace: 0
 
-! special
-URxvt*foreground:           #dadada
-URxvt*background:           #2c2f33
-URxvt*cursorColor:          #dadada
-
-! black
-URxvt*color0:               #1c1c1c
-URxvt*color8:               #1c1c1d
-
-! red
-URxvt*color1:               #ff6584
-URxvt*color9:               #ff8dab
-
-! green
-URxvt*color2:               #84ff65
-URxvt*color10:              #abff8d
-
-! yellow
-URxvt*color3:               #fff563
-URxvt*color11:              #fff08d
-
-! blue
-URxvt*color4:               #65a3ff
-URxvt*color12:              #8dcaff
-
-! magenta
-URxvt*color5:               #cd66f2
-URxvt*color13:              #e18dff
-
-! cyan
-URxvt*color6:               #65d3ff
-URxvt*color14:              #8dfaff
-
-! white
-URxvt*color7:               #dadada
-URxvt*color15:              #dadafa
+! ! special
+! URxvt*foreground:           #dadada
+! URxvt*background:           #2c2f33
+! URxvt*cursorColor:          #dadada
+! 
+! ! black
+! URxvt*color0:               #1c1c1c
+! URxvt*color8:               #1c1c1d
+! 
+! ! red
+! URxvt*color1:               #ff6584
+! URxvt*color9:               #ff8dab
+! 
+! ! green
+! URxvt*color2:               #84ff65
+! URxvt*color10:              #abff8d
+! 
+! ! yellow
+! URxvt*color3:               #fff563
+! URxvt*color11:              #fff08d
+! 
+! ! blue
+! URxvt*color4:               #65a3ff
+! URxvt*color12:              #8dcaff
+! 
+! ! magenta
+! URxvt*color5:               #cd66f2
+! URxvt*color13:              #e18dff
+! 
+! ! cyan
+! URxvt*color6:               #65d3ff
+! URxvt*color14:              #8dfaff
+! 
+! ! white
+! URxvt*color7:               #dadada
+! URxvt*color15:              #dadafa
 
 !!! END COLORS !!!
 
@@ -77,3 +77,5 @@ URxvt.keysym.Control-Up:          \033[1;5A
 URxvt.keysym.Shift-Control-Up:    \033[1;6A
 URxvt.keysym.Control-Down:        \033[1;5B
 URxvt.keysym.Shift-Control-Down:  \033[1;6B
+
+#include "/home/hyacinth/xthemes/iterm-Afterglow.Xresources"
