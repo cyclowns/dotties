@@ -50,6 +50,7 @@ rm_ln dotfiles/i3.conf ~/.i3/config
 # polybar
 rm_ln dotfiles/polybar.conf ~/.config/polybar/config
 rm_ln scripts/launch.sh ~/.config/polybar/launch.sh
+rm_ln scripts/openweathermap-fullfeatured.sh ~/.config/polybar/weather.sh
 
 # rofi
 rm_ln dotfiles/rofi.conf ~/.config/rofi/config.rasi
@@ -61,8 +62,15 @@ rm_ln dotfiles/spacemacs.conf ~/.spacemacs
 rm_ln dotfiles/ranger.conf ~/.config/ranger/rc.conf
 rm_ln scripts/scope.sh ~/.config/ranger/scope.sh
 
+# dunst
+rm_ln dotfiles/dunst.conf ~/.config/dunst/dunstrc
+
+# mpd
+rm_ln dotfiles/mpd.conf ~/.config/mpd/mpd.conf
+
 # misc
 rm_ln dotfiles/mimeapps.list ~/.config/mimeapps.list
+
 
 echo "Done!"
 

@@ -198,3 +198,4 @@ case $(basename "$(cat "/proc/$PPID/comm")") in
 esac
 
 # User Commands
+alias dlm="youtube-dl -x --audio-format mp3 --embed-thumbnail"
