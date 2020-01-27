@@ -68,6 +68,9 @@ rm_ln dotfiles/dunst.conf ~/.config/dunst/dunstrc
 # mpd
 rm_ln dotfiles/mpd.conf ~/.config/mpd/mpd.conf
 
+# neovim
+rm_ln dotfiles/neovim.conf ~/.config/nvim/init.vim
+
 # misc
 rm_ln dotfiles/mimeapps.list ~/.config/mimeapps.list
 

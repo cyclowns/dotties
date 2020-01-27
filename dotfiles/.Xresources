@@ -21,8 +21,8 @@ URxvt*saveLines:                  5000
 ! hyatheme
  
 URxvt*termName: rxvt-unicode-256color
-URxvt*font:     xft:Iosevka:pixelsize=17
-URxvt*boldFont: xft:Iosevka:style=bold:pixelsize=17
+URxvt*font:     xft:Iosevka:pixelsize=14
+URxvt*boldFont: xft:Iosevka:style=bold:pixelsize=14
 URxvt.letterSpace: 0
 
 ! ! special
