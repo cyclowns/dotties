@@ -50,7 +50,6 @@ rm_ln dotfiles/i3.conf ~/.i3/config
 # polybar
 rm_ln dotfiles/polybar.conf ~/.config/polybar/config
 rm_ln scripts/launch.sh ~/.config/polybar/launch.sh
-rm_ln scripts/openweathermap-fullfeatured.sh ~/.config/polybar/weather.sh
 
 # rofi
 rm_ln dotfiles/rofi.conf ~/.config/rofi/config.rasi
@@ -73,7 +72,6 @@ rm_ln dotfiles/neovim.conf ~/.config/nvim/init.vim
 
 # misc
 rm_ln dotfiles/mimeapps.list ~/.config/mimeapps.list
-
 
 echo "Done!"
 
