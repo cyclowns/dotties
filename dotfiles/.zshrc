@@ -242,8 +242,12 @@ if [ -f $1 ] ; then
 }
 
 # User Commands
-alias dlm="youtube-dl -x --audio-format mp3 --embed-thumbnail"
+alias dlm="youtube-dl -x -i --audio-format mp3"
 alias vim="nvim"
 alias vi="nvim"
+alias neofetch="neofetch --source ~/hs"
 
 export PATH="$HOME/.cargo/bin:/usr/bin/licenser:$PATH"
+
+# added by travis gem
+[ -f /home/hyacinth/.travis/travis.sh ] && source /home/hyacinth/.travis/travis.sh
