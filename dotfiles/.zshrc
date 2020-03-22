@@ -56,9 +56,11 @@ bindkey '^[[Z' undo                                             # Shift+tab undo
 alias cp="cp -i"                                                # Confirm before overwriting something
 alias df='df -h'                                                # Human-readable sizes
 alias free='free -m'                                            # Show sizes in MB
+alias less='less -R'
 alias gitu='git add . && git commit && git push'
-alias ls='ls --color=always'
-alias ll='ls -la'
+alias exa='exa -l --color=always --group-directories-first --git'
+alias exl='exa -a | bat'
+alias rg='rg --color=always'
 
 # Theming section  
 autoload -U compinit colors zcalc
@@ -157,6 +159,9 @@ export LESS=-r
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 # Use history substring search
 source /usr/share/zsh/plugins/zsh-history-substring-search/zsh-history-substring-search.zsh
+# fzf plugins
+source /usr/share/fzf/key-bindings.zsh
+source /usr/share/fzf/completion.zsh
 # bind UP and DOWN arrow keys to history substring search
 zmodload zsh/terminfo
 bindkey "$terminfo[kcuu1]" history-substring-search-up
