@@ -70,6 +70,9 @@ rm_ln dotfiles/mpd.conf ~/.config/mpd/mpd.conf
 # neovim
 rm_ln dotfiles/neovim.conf ~/.config/nvim/init.vim
 
+# neofetch
+rm_ln dotfiles/neofetch.conf ~/.config/neofetch/config.conf
+
 # misc
 rm_ln dotfiles/mimeapps.list ~/.config/mimeapps.list
 
