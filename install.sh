@@ -76,6 +76,8 @@ rm_ln dotfiles/neofetch.conf ~/.config/neofetch/config.conf
 # misc
 rm_ln dotfiles/mimeapps.list ~/.config/mimeapps.list
 
+export DOTFILES=$HOME/dotfiles/dotfiles
+
 echo "Done!"
 
 
