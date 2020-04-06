@@ -65,7 +65,7 @@ entry {
 #prompt {
   padding: @prompt-padding;
   background-color: @accent;
-  text-color: @background;
+  text-color: @background-light;
 }
 
 #textbox-prompt-colon {

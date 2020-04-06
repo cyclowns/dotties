@@ -142,6 +142,7 @@ if [ -f $1 ] ; then
 }
 
 export PATH="$HOME/.cargo/bin:/usr/bin/licenser:~/.local/bin:$PATH"
+export DOTFILES="$HOME/dotfiles/dotfiles"
 export LC_CTYPE=en_US.UTF-8
 
 # added by travis gem
