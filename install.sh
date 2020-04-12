@@ -43,7 +43,6 @@ rm_ln dotfiles/.zshrc ~/.zshrc
 rm_ln dotfiles/i3.conf ~/.i3/config
 rm_ln dotfiles/polybar.conf ~/.config/polybar/config
 rm_ln scripts/launch.sh ~/.config/polybar/launch.sh
-rm_ln dotfiles/rofi.conf ~/.config/rofi/config.rasi
 rm_ln dotfiles/spacemacs.conf ~/.spacemacs
 
 rm_ln dotfiles/ranger.conf ~/.config/ranger/rc.conf
@@ -56,6 +55,9 @@ rm_ln dotfiles/neofetch.conf ~/.config/neofetch/config.conf
 rm_ln dotfiles/compton.conf ~/.config/compton.conf
 rm_ln dotfiles/qt5ct ~/.config/qt5ct
 rm_ln dotfiles/mimeapps.list ~/.config/mimeapps.list
+
+rm_ln dotfiles/rofi/ ~/.config/rofi
+rm_ln dotfiles/.doom.d/ ~/.doom.d
 
 export DOTFILES=$HOME/dotfiles/dotfiles
 
